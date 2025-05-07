@@ -1,7 +1,7 @@
 {
     "name": "Air Hollandia",
-    "color": "Black",
-    "bgcolor": "White",
+    "color": "black",
+    "bgcolor": "white",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
