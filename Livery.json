@@ -1,7 +1,7 @@
 {
     "name": "Air Hollandia",
-    "color": "Orange",
-    "bgcolor": "White",
+    "color": "white",
+    "bgcolor": "orange",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -427,24 +427,25 @@
         },
         "4646": {
             "name": "Airbus a321neo",
-            {
-                    "name": "Air Hollandia (XLR)",
+        "liveries": [
+                {
+                    "name": "Air Hollandia (new livery 22)",
                     "texture": [
-                        "https://i.ibb.co/0jgFbf2L/Air-holandia-XLR.jpg"
+                        "https://i.imgur.com/DF5y4Ue.png"
                     ],
                     "credits": "The Dutch Guy"
                 },
                 {
-                    "name": "Air Hollandia",
+                    "name": "Air Hollandia (old livery)",
                     "texture": [
-                        "https://i.ibb.co/jvCMB8Gk/Air-Holandia-NEO-2022-new-livery.jpg"
+                        "https://i.imgur.com/l1z6qjR.png"
                     ],
                     "credits": "The Dutch Guy"
-                },
-  {
-                    "name": "Air Hollandia pre 22",
+                                },
+                {
+                    "name": "Air Hollandia (XLR)",
                     "texture": [
-                        "https://i.ibb.co/mrCmCrVV/Air-hollandia-a321-pre-2022.jpg"
+                        "https://i.imgur.com/uDPWT5f.png"
                     ],
                     "credits": "The Dutch Guy"
                 }
