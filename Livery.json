@@ -569,6 +569,20 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
+                 {
+                    "name": "Air Hollandia (pre 22)",
+                    "texture": [
+                        "https://i.imgur.com/CLbQlIH.png"
+                    ],
+                    "credits": "The Dutch Guy"
+                },
+                {
+                    "name": "Air Hollandia (after 22)",
+                    "texture": [
+                        "https://i.imgur.com/nJYe2mA.png"
+                    ],
+                    "credits": "The Dutch Guy"
+                }
             ],
             "labels": [
                 "Texture"
