@@ -561,6 +561,13 @@
         "2951": {
             "name": "Airbus a340-300",
             "liveries": [
+                 {
+                    "name": "Air Hollandia (Retired)",
+                    "texture": [
+                        "https://i.imgur.com/gKQfNyi.png"
+                    ],
+                    "credits": "The Dutch Guy"
+                }
             ],
             "labels": [
                 "Texture"
