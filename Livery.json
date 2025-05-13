@@ -261,6 +261,12 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
+                 {
+                    "name": "Air Hollandia",
+                    "texture": [
+                        "https://i.imgur.com/DF5y4Ue.png"
+                    ],
+                    "credits": "The Dutch Guy"
             ],
             "labels": [
                 "Texture"
@@ -401,6 +407,15 @@
         "3341": {
             "name": "Embraer ERJ 170",
             "liveries": [
+                              {
+                    "name": "Air Hollandia (new livery 22)",
+                    "texture": [
+                        "https://i.imgur.com/xgUKQZ1.png",
+                        "https://i.imgur.com/rlMS9j1.png",
+                        "https://i.imgur.com/eOpghdB.png"
+                    ],
+                    "credits": "The Dutch Guy"
+                }
             ],
             "labels": [
                 "Fuselage texture",
