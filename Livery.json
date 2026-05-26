@@ -1,7 +1,7 @@
 {
     "name": "Air Hollandia",
     "color": "white",
-    "bgcolor": "orange",
+    "bgcolor": "blue",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -74,6 +74,7 @@
             "liveries": [
             ],
             "labels": [
+                "Normal map",
                 "Specular shader",
                 "Texture"
             ]
@@ -261,12 +262,6 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
-                 {
-                    "name": "Air Hollandia",
-                    "texture": [
-                        "https://i.imgur.com/DF5y4Ue.png"
-                    ],
-                    "credits": "The Dutch Guy"
             ],
             "labels": [
                 "Texture"
@@ -299,7 +294,7 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
-            {
+   {
                     "name": "PH-YSA",
                     "texture": [
                         "https://imgur.com/a/ndib93c"
@@ -412,7 +407,7 @@
             ]
         },
         "3341": {
-             "name": "Embraer ERJ 170",
+            "name": "Embraer ERJ 170",
             "liveries": [
             ],
             "labels": [
@@ -440,28 +435,7 @@
         },
         "4646": {
             "name": "Airbus a321neo",
-        "liveries": [
-                {
-                    "name": "Air Hollandia (new livery 22)",
-                    "texture": [
-                        "https://i.imgur.com/DF5y4Ue.png"
-                    ],
-                    "credits": "The Dutch Guy"
-                },
-                {
-                    "name": "Air Hollandia (old livery)",
-                    "texture": [
-                        "https://i.imgur.com/l1z6qjR.png"
-                    ],
-                    "credits": "The Dutch Guy"
-                                },
-                {
-                    "name": "Air Hollandia (XLR)",
-                    "texture": [
-                        "https://i.imgur.com/uDPWT5f.png"
-                    ],
-                    "credits": "The Dutch Guy"
-                }
+            "liveries": [
             ],
             "labels": [
                 "Texture"
@@ -574,13 +548,6 @@
         "2951": {
             "name": "Airbus a340-300",
             "liveries": [
-                 {
-                    "name": "Air Hollandia (Retired)",
-                    "texture": [
-                        "https://i.imgur.com/gKQfNyi.png"
-                    ],
-                    "credits": "The Dutch Guy"
-                }
             ],
             "labels": [
                 "Texture"
@@ -589,20 +556,6 @@
         "2856": {
             "name": "Airbus a330-200",
             "liveries": [
-                 {
-                    "name": "Air Hollandia (pre 22)",
-                    "texture": [
-                        "https://i.imgur.com/CLbQlIH.png"
-                    ],
-                    "credits": "The Dutch Guy"
-                },
-                {
-                    "name": "Air Hollandia (after 22)",
-                    "texture": [
-                        "https://i.imgur.com/nJYe2mA.png"
-                    ],
-                    "credits": "The Dutch Guy"
-                }
             ],
             "labels": [
                 "Texture"
@@ -727,6 +680,206 @@
             "labels": [
                 "Fuselage texture",
                 "Engine texture"
+            ]
+        },
+        "29": {
+            "name": "Dassault Rafale",
+            "liveries": [
+            ],
+            "labels":[
+                "Normal map",
+                "Main texture",
+                "Specular shader",
+                "Cockpit texture"
+            ]
+        },
+        "2953": {
+            "name": "NASA Space Shuttle",
+            "liveries": [
+            ],
+            "labels":[
+                "Main texture",
+                "EFT",
+                "SRB"
+            ]
+        },
+        "1014": {
+            "name": "Ilyushin IL-76TD",
+            "liveries": [
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture"
+            ]
+        },
+        "1023": {
+            "name": "McDonnell Douglas MD11",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3617": {
+            "name": "Dessault Mirage 2000-5",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5347": {
+            "name": "Dessault Mirage F1",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3011": {
+            "name": "Airbus a320-232",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5314": {
+            "name": "Boeing b747-100 SCA",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3460": {
+            "name": "Grumman E-2 Hawkeye",
+            "liveries": [
+            ],
+            "labels": [
+                "Dome texture",
+                "Fuselage texture",
+                "Tail texture",
+                "Prop texture"
+            ]
+        },
+        "3436": {
+            "name": "Dornier do228-100 Coast Guard",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5405": {
+            "name": "Chengdu J-20",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5431": {
+            "name": "Northrop YF-23",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "240": {
+            "name": "Boeing b777-200",
+            "liveries": [
+            ],
+            "labels": [
+                "Metallic Roughness shader",
+                "Texture"
+            ]
+        },
+        "1004": {
+            "name": "Boeing b777-200LR",
+            "liveries": [
+            ],
+            "labels": [
+                "Metallic Roughness shader",
+                "Texture"
+            ]
+        },
+        "4402": {
+            "name": "Boeing b777-200F",
+            "liveries": [
+            ],
+            "labels": [
+                "Metallic Roughness shader",
+                "Texture"
+            ]
+        },
+        "1001": {
+            "name": "Boeing b737-900",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5409": {
+            "name": "Boeing b747-400D",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture",
+                "Wing texture"
+            ]
+            
+        },
+        "1018": {
+            "name": "Embraer ERJ 190",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "252": {
+            "name": "Boeing b747-8F",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2806": {
+            "name": "Sikorsky UH-60 Black Hawk",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "5499": {
+            "name": "CubCrafters CC19 XCub",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2786": {
+            "name": "Grumman J2F-5 Duck",
+            "liveries": [
+            ],
+            "labels": [
+                "Main texture",
+                "Rudder texture",
+                "Prop texture"
+            ]
+        },
+        "5551": {
+            "name": "Comac C919",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
             ]
         }
     }
