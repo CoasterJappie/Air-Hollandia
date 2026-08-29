@@ -835,6 +835,13 @@
         "1018": {
             "name": "Embraer ERJ 190",
             "liveries": [
+         {
+                    "name": "PH-ICA",
+                    "texture": [
+                        "https://i.imgur.com/6d1cDlL.jpeg"
+                    ],
+                    "credits": "The Dutch Guy"
+                }
             ],
             "labels": [
                 "Texture"
