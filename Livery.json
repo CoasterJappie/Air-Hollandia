@@ -262,6 +262,13 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
+                {
+                    "name": "PH-EOA",
+                    "texture": [
+                        "https://i.imgur.com/6MAmje2.jpeg"
+                    ],
+                    "credits": "The Dutch Guy"
+                }
             ],
             "labels": [
                 "Texture"
