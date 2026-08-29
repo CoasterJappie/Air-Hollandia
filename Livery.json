@@ -452,6 +452,13 @@
         "4745": {
             "name": "Boeing b757-300WL",
             "liveries": [
+                 {
+                    "name": "PH-WFA",
+                    "texture": [
+                        "https://i.imgur.com/adKLK2D.jpeg"
+                    ],
+                    "credits": "The Dutch Guy"
+                }
             ],
             "labels": [
                 "Texture"
@@ -843,10 +850,6 @@
                     "credits": "The Dutch Guy"
                 }
             ],
-            "labels": [
-                "Texture"
-            ]
-        },
             "labels": [
                 "Texture"
             ]
